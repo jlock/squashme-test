@@ -1,3 +1,3 @@
 <?php
-echo "best language of them all"
+echo "best language of them all."
  ?>
